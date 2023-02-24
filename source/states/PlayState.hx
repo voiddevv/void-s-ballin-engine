@@ -1,5 +1,6 @@
 package states;
 
+import openfl.display.Window;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import lime.app.Application;
 import engine.scripting.Hscript;
@@ -16,7 +17,9 @@ using StringTools;
 class PlayState extends MusicBeatState
 {
 	public static var CHART:SwagSong;
+
 	public var health:Float = 1.0;
+	public var combo:Int = 0;
 
 	public var UI:UI;
 	public var stage:Stage;
@@ -61,7 +64,9 @@ class PlayState extends MusicBeatState
 		// im sorry :C
 		bfGroup.forEachAlive(function(bf)
 		{
-			if (bf.holdTimer > Conductor.stepCrochet * 4 * 0.001 && bf.animation.curAnim.name.startsWith('sing') && !bf.animation.curAnim.name.endsWith('miss'))
+			if (bf.holdTimer > Conductor.stepCrochet * 4 * 0.001
+				&& bf.animation.curAnim.name.startsWith('sing')
+				&& !bf.animation.curAnim.name.endsWith('miss'))
 			{
 				bf.dance();
 			}

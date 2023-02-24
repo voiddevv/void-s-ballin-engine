@@ -1,5 +1,12 @@
 package game;
 
+import flixel.util.FlxDestroyUtil;
+import flixel.input.gamepad.id.WiiRemoteID;
+import flixel.tweens.FlxEase;
+import flixel.tweens.FlxTween;
+import game.base.Rating;
+import cpp.Int8;
+import cpp.Int64;
 import flixel.util.FlxColor;
 import flixel.ui.FlxBar;
 import flixel.FlxSprite;
@@ -16,16 +23,16 @@ import flixel.group.FlxGroup.FlxTypedGroup;
 
 class UI extends FlxTypedGroup<FlxBasic>
 {
-	var dadStrum = new StrumLine(4);
-	var playerStrum = new StrumLine(4, true);
-	var notes:FlxTypedGroup<Note> = new FlxTypedGroup();
+	public var dadStrum = new StrumLine(4);
+	public var playerStrum = new StrumLine(4, true);
+	public var notes:FlxTypedGroup<Note> = new FlxTypedGroup();
+
 	var songstarted:Bool = false;
 
 	public var healthbarBG:FlxSprite;
 	public var healthBar:FlxBar;
 	public var bfIcon:HealthIcon;
 	public var dadIcon:HealthIcon;
-
 
 	public function new()
 	{
@@ -37,8 +44,9 @@ class UI extends FlxTypedGroup<FlxBasic>
 		playerStrum.x += FlxG.width / 4;
 		healthbarBG = new FlxSprite(0, FlxG.height * 0.9).loadGraphic(Assets.load(IMAGE, Paths.image("healthBar")));
 		healthbarBG.screenCenter(X);
-		healthBar = new FlxBar(healthbarBG.x + 4,healthbarBG.y + 4,RIGHT_TO_LEFT,Std.int(healthbarBG.width-8),Std.int(healthbarBG.height-8),PlayState.current,'health',0,2);
-		healthBar.createFilledBar(0xFFFF0000,0xFF5EFF00);
+		healthBar = new FlxBar(healthbarBG.x + 4, healthbarBG.y + 4, RIGHT_TO_LEFT, Std.int(healthbarBG.width - 8), Std.int(healthbarBG.height - 8),
+			PlayState.current, 'health', 0, 2);
+		healthBar.createFilledBar(0xFFFF0000, 0xFF5EFF00);
 		bfIcon = new HealthIcon('bf', true);
 		dadIcon = new HealthIcon('dad', false);
 
@@ -46,7 +54,7 @@ class UI extends FlxTypedGroup<FlxBasic>
 		add(healthBar);
 		add(bfIcon);
 		add(dadIcon);
-		bfIcon.y = dadIcon.y = FlxG.height*0.8;
+		bfIcon.y = dadIcon.y = FlxG.height * 0.8;
 		add(dadStrum);
 		add(playerStrum);
 		add(notes);
@@ -75,8 +83,27 @@ class UI extends FlxTypedGroup<FlxBasic>
 				notes.add(pressNote);
 			}
 	}
-	public function popupscore() {
-		
+
+	public function popupscore(note:Note)
+	{
+		var rating = Rating.getFromNote(note);
+		var ratingTex = Assets.load(IMAGE, Paths.image('$rating'));
+		var ratingSprite:FlxSprite;
+		ratingSprite = new FlxSprite(650, 200).loadGraphic(ratingTex);
+		ratingSprite.acceleration.y = 550;
+		ratingSprite.velocity.y = -150;
+		ratingSprite.scale.set(0.7,0.7);
+		ratingSprite.updateHitbox();
+		ratingSprite.screenCenter();
+		add(ratingSprite);
+		FlxTween.tween(ratingSprite, {alpha: 0}, 0.2, {
+			onComplete: function(tween:FlxTween)
+			{
+				ratingSprite.kill();
+				remove(ratingSprite, true);
+			},
+			startDelay: Conductor.crochet * 0.001
+		});
 	}
 
 	override function update(elapsed:Float)
@@ -113,8 +140,8 @@ class UI extends FlxTypedGroup<FlxBasic>
 		});
 		var iconOffset:Int = 26;
 
-		bfIcon.x = healthBar.x + (healthBar.width * (100 - healthBar.percent)/100 - iconOffset);
-		dadIcon.x = healthBar.x + (healthBar.width * (100 - healthBar.percent)/100 - (dadIcon.width - iconOffset));
+		bfIcon.x = healthBar.x + (healthBar.width * (100 - healthBar.percent) / 100 - iconOffset);
+		dadIcon.x = healthBar.x + (healthBar.width * (100 - healthBar.percent) / 100 - (dadIcon.width - iconOffset));
 	}
 
 	public function dadNoteHit(note:Note)
@@ -145,6 +172,8 @@ class UI extends FlxTypedGroup<FlxBasic>
 		playerStrum.members[note.direction].centerOffsets();
 		playerStrum.members[note.direction].offset.y -= 13;
 		playerStrum.members[note.direction].offset.x -= 13;
+		PlayState.current.combo++;
+		popupscore(note);
 		var dirs:Array<String> = ["LEFT", "DOWN", 'UP', 'RIGHT'];
 		PlayState.current.bfGroup.forEachAlive(function(char:Boyfriend)
 		{

@@ -1,7 +1,8 @@
 package engine.utills;
 
+import cpp.vm.Gc;
+import openfl.Memory;
 import flixel.math.FlxMath;
-import external.memory.Memory;
 import haxe.Timer;
 import openfl.display.FPS;
 import openfl.events.Event;
@@ -54,8 +55,7 @@ class FPS extends TextField
 		while (times[0] < now - 1)
 			times.shift();
 
-		var mem:Float = FlxMath.roundDecimal(Memory.getCurrentUsage() / 1048576, 3);
-
+		var mem:Float = FlxMath.roundDecimal(external.memory.Memory.getCurrentUsage() / 1048576, 2);
 		if (mem > memPeak)
 			memPeak = mem;
 

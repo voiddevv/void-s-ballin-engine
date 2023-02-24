@@ -48,7 +48,7 @@ class Hscript
 		interp.variables.set("CoolUtil", CoolUtil);
 		interp.errorHandler = function(error)
 		{
-			trace(error.toString());
+			trace('HSCRIPT ERROR: at LINE: ${error.line} ${error.toString()}');
 		}
 	}
 
