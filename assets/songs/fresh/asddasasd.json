@@ -1,0 +1,3509 @@
+{
+    "sections": [
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 0,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 0,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 1875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 2000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 2000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 2875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 3875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 4000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 4000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 4875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 5750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 6000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 6000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 6875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 7750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 8250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 8500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 9000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 8250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 8500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 9000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 10250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 10500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 11000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 10250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 10500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 11000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 12250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 12500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 12750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 13000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 12250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 12500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 12750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 13000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 14250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 14500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 14750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 15000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 14250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 14500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 14750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 15000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 16250.001,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 16500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 16750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 17000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 17500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 16250.001,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 16500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 16750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 17000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 17500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 18250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 18500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 18750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 19000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 19500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 18250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 18500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 18750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 19000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 19500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 20000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 20250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 20750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 20000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 20250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 20750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 21750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 22000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 22250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 22750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 22000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 22250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 22750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 23750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 24000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 24500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 24000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 24500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 25500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 26000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 26000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 26750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 27500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 28000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 28500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 28000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 28500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 29500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 30000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 30000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 30750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 31500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 32500.002,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 32750.002,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 32500.002,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 32750.002,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 33750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 34250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 34500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 34750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 35000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 35500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 34250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 34500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 34750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 35000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 35500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 36500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 36750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 36500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 36750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 37750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 38250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 38500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 38750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 39000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 39500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 38250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 38500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 38750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 39000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 39500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 40250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 40500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 40250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 40500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 41750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 42250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 42500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 42250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 42500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 43750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 44250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 44500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 44750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 45000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 45750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 44250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 44500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 44750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 45000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 45750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 46250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 46500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 46750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 47000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 47750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 46250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 46500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 46750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 47000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 47750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 48250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 48500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 48750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 49000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 49750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 48250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 48500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 48750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 49000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 49750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 50250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 50500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 50750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 51000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 51750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 50250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 50500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 50750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 51000,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 51750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 52000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 52000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 52750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 53750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 54000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 54000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 54750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 55750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 56000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 56500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 56000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 56500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 57500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 58000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 58000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 58750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 59500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 60000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 60500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 60000,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 60500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 61500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 62000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 62000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62250,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 62750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 63500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 64500.0039,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 64750.0039,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65000.0039,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65250.0039,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65500.0039,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 64500.0039,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 64750.0039,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65000.0039,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65250.0039,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65500.0039,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 65750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 66250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 66500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 66750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 67000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 67500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 66250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 66500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 66750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 67000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 67500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "mustHitSection": false
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 68500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 68750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 68500,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 68750,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69250,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 69750,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 70250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 70500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 70750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 71000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 71500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 70250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 70500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 70750,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 71000,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 375
+                },
+                {
+                    "strumTime": 71500,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 375
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 72000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72000,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72250,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72875,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73125,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73250,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 6,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73750,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                },
+                {
+                    "strumTime": 73875,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 72000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72000,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72250,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 72875,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73125,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73250,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73500,
+                    "direction": 6,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73750,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 73875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                },
+                {
+                    "strumTime": 73875,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 74000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 74000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 74875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75750,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 75875,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 125
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 76000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76000,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76250,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76875,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77125,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77250,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 6,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 76000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76000,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76250,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 76875,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77125,
+                    "direction": 5,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77250,
+                    "direction": 4,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 7,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 77500,
+                    "direction": 6,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "sectionNotes": [
+                {
+                    "strumTime": 78000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "lengthInSteps": 16,
+            "notes": [
+                {
+                    "strumTime": 78000,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78250,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 78875,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79125,
+                    "direction": 1,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79250,
+                    "direction": 0,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79500,
+                    "direction": 3,
+                    "type": "",
+                    "sustainLength": 0
+                },
+                {
+                    "strumTime": 79500,
+                    "direction": 2,
+                    "type": "",
+                    "sustainLength": 0
+                }
+            ],
+            "mustHitSection": true
+        },
+        {
+            "notes": [],
+            "lengthInSteps": 16,
+            "mustHitSection": true
+        },
+        {
+            "notes": [],
+            "lengthInSteps": 16,
+            "mustHitSection": true
+        }
+    ],
+    "scrollSpeed": 1.8,
+    "bf": "bf",
+    "gf": "gf",
+    "bpm": 120,
+    "dad": "dad",
+    "tracks": [],
+    "name": ""
+}
